@@ -1,0 +1,2 @@
+web_build:
+      flutter build web --no-tree-shake-icons --web-renderer canvaskit --release
