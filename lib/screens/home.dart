@@ -244,8 +244,8 @@ class _HomePageState extends State<HomePage> {
             [Subtitle("${"Six Months Internship at Specso Technologies as Flutter Developer."
                 "\n● Design and Build sophisticated and highly scalable apps using Flutter."
                 "\n● Build custom packages in Flutter using the"
-                "functionalities and APIsalready available in native Android and IOS."
-                "\n● Translate and Build the designs and Wireframesinto high quality responsiveUI code."
+                "functionalities and API\'s already available in native Android and IOS."
+                "\n● Translate and Build the designs and Wireframes into high quality responsiveUI code."
                 "\n● Projects: Dana Pani Application , Barbo Application(design only)"}")]
         ),
         SizedBox(height: 50),
